@@ -42,14 +42,14 @@ Anyone who’s neither a core nor a border (i.e., too few neighbors and too far 
 
 ## Why It’s Cool
 
-- No Need to Guess the Number of Groups
+### No Need to Guess the Number of Groups
 
 You don’t say “I want 3 friend-groups.” You just tell it what “close” and “big enough” mean, and it figures out how many groups there really are.
 
-- Finds Weird Shapes
+### Finds Weird Shapes
 Even if your friends aren’t standing in neat circles—maybe they’re spread out along a walkway or wrapped around a stage—you’ll still catch them.
 
-- Spots Stragglers
+### Spots Stragglers
 Lone festival-goers get labeled as noise, which is helpful if you want to ignore them in your analysis.
 
 
